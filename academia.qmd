@@ -1,0 +1,29 @@
+---
+title: "Academia"
+---
+
+# Academia
+
+Nossa organização oferece uma variedade de serviços acadêmicos para apoiar estudantes, pesquisadores e profissionais em suas pesquisas.
+
+## Nossos Serviços Acadêmicos
+
+### Treinamentos e Workshops
+
+Oferecemos treinamentos e workshops em diversas áreas, incluindo:
+
+- Análise de Dados
+- Metodologias de Pesquisa
+
+### Consultoria Acadêmica
+
+Nossa equipe de especialistas está disponível para fornecer consultoria em projetos acadêmicos, ajudando com:
+
+- Planejamento de Pesquisa
+- Análise de Dados
+
+## Equipe
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossa equipe, veja a seção [Equipe](equipe.qmd).
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).

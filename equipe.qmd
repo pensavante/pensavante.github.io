@@ -1,0 +1,15 @@
+---
+title: "Equipe"
+---
+
+# Nossa Equipe
+
+Nossa equipe é composta por profissionais altamente qualificados e dedicados, com experiência em diversas áreas. Conheça alguns dos nossos principais membros:
+
+## Em andamento
+
+**Cargo:** Em andamento
+
+**Descrição:** Em andamento
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).

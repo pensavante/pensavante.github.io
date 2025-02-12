@@ -1,0 +1,28 @@
+---
+title: "Pensavante"
+---
+
+## Sobre Nós
+
+Somos uma equipe dedicada a fornecer soluções inovadoras e de alta qualidade. Nossa missão é ajudar nossos clientes a alcançar seus objetivos através de nossos serviços especializados.
+
+## Serviços
+
+Oferecemos uma variedade de serviços para atender às suas necessidades:
+
+- **Dados**: Análise, obtenção, manipulação e visualização de dados.
+- **Desenvolvimento**: Desenvolvimento de software e aplicativos.
+- **Serviços acadêmicos**: Treinamentos e auxílio em execução de análises.
+
+## Portfólio
+
+Confira alguns dos nossos casos de sucesso e nossos parceiros:
+
+- **Casos**: Projetos realizados com sucesso.
+- **Parceiros**: Empresas e organizações com as quais colaboramos.
+
+Para saber mais sobre nossos serviços e portfólio, navegue pelo menu no topo da página.
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossos serviços, não hesite em nos contatar.

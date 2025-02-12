@@ -1,0 +1,34 @@
+---
+title: "Institucional"
+---
+
+## Nossa História
+
+Fundada em 2019 e voltada para a área de educação, a partir de 2024 nossa organização tem se dedicado a fornecer soluções inovadoras em software para nossos clientes. Com uma equipe de especialistas em diversas áreas.
+
+## Missão
+
+Proporcionar uma verdadeira experiência em soluções inovadoras, contribuindo para a tomada de decisão crítica e otimização de processos na obtenção de resultados.
+
+## Visão
+
+Ser reconhecida como uma organização de referência em soluções inovadoras, agregando valor para nossos clientes e excelência em todos os nossos serviços.
+
+## Valores
+
+- **Respeito**: Tratamos todas as pessoas com dignidade e consideração, valorizando a diversidade e promovendo um ambiente inclusivo.
+- **Ética**: Agimos com integridade e responsabilidade em todas as nossas ações.
+- **Inovação**: Buscamos constantemente novas ideias e soluções para melhorar nossos serviços.
+- **Qualidade**: Comprometimento com a excelência em tudo o que fazemos.
+- **Transparência**: Valorizamos a honestidade e a comunicação aberta com nossos clientes e parceiros.
+- **Colaboração**: Trabalhamos em equipe para alcançar objetivos comuns e proporcionar os melhores resultados.
+
+## Nossa Equipe
+
+Nossa equipe é composta por profissionais altamente qualificados e dedicados, com experiência em diversas áreas. Estamos comprometidos em fornecer o melhor serviço possível e em ajudar nossos clientes a alcançar seus objetivos.
+
+Para saber mais sobre nossa equipe, visite a seção [Equipe](equipe.qmd).
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossa organização, não hesite em nos contatar.

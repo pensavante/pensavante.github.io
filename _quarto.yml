@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  favicon: "images/favicon/apple-touch-icon.png"
+  
+  navbar:
+    logo: "images/logo.png"
+    left:
+      - text: Início
+        href: index.qmd
+      - text: Sobre
+        menu:
+          - href: institucional.qmd
+            text: Institucional
+          - href: equipe.qmd
+            text: Equipe
+          - href: contato.qmd
+            text: Contato
+      - text: Serviços
+        menu:
+          - href: dados.qmd
+            text: Dados
+          - href: desenvolvimento.qmd
+            text: Desenvolvimento
+          - href: academia.qmd
+            text: Serviços acadêmicos
+      - text: Portfólio
+        menu:
+          - href: casos.qmd
+            text: Casos
+          - href: parceiros.qmd
+            text: Parceiros
+  page-footer:
+    center:
+      - text: "Pensavante Consultoria em Tecnologia e Análise de Dados LTDA | 55.363.680/0001-08 Avenida Paulista, 1106 (Sala 01, Andar 16) | São Paulo – SP, Brasil"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

@@ -1,0 +1,52 @@
+---
+title: "Desenvolvimento"
+---
+
+# Desenvolvimento
+
+Nossa organização oferece uma ampla gama de serviços de desenvolvimento para atender às necessidades de nossos clientes. Desde o desenvolvimento de software personalizado até a criação de aplicativos móveis, estamos aqui para ajudar.
+
+## Nossos Serviços de Desenvolvimento
+
+### Desenvolvimento de Software Personalizado
+
+Criamos soluções de software sob medida para atender às necessidades específicas de cada cliente. Nosso processo de desenvolvimento inclui:
+
+- Análise de Requisitos
+- Design de Arquitetura
+- Implementação
+- Testes e Garantia de Qualidade
+- Manutenção e Suporte
+
+### Desenvolvimento de Aplicativos Móveis
+
+Desenvolvemos aplicativos móveis para as plataformas iOS e Android, proporcionando uma experiência de usuário intuitiva e funcional. Nossos serviços incluem:
+
+- Design de Interface de Usuário (UI)
+- Desenvolvimento de Funcionalidades
+- Integração com APIs
+- Testes e Publicação nas Lojas de Aplicativos
+
+### Desenvolvimento Web
+
+Criamos sites e aplicações web responsivas e escaláveis, utilizando as mais recentes tecnologias e melhores práticas. Nossos serviços incluem:
+
+- Design Responsivo
+- Desenvolvimento Front-end e Back-end
+- Integração com Sistemas Existentes
+- Otimização de Desempenho
+
+## Tecnologias que Utilizamos
+
+Estamos familiarizados com uma variedade de tecnologias e ferramentas para garantir que possamos oferecer a melhor solução para cada projeto. Algumas das tecnologias que utilizamos incluem:
+
+- Linguagens de Programação: Python, JavaScript, Java, C#, NOde.js
+- Frameworks: React, Angular, Django, Spring, Express
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB
+- Ferramentas de DevOps: Docker, Kubernetes, Jenkins
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossos serviços de desenvolvimento, não hesite em nos contatar através da seção [Contato](contato.qmd).
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).

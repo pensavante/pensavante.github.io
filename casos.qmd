@@ -1,0 +1,15 @@
+---
+title: "Casos"
+---
+
+# Casos de Sucesso
+
+Estamos orgulhosos dos projetos que realizamos e dos resultados que ajudamos nossos clientes a alcançar. Aqui estão alguns dos nossos casos de sucesso.
+
+## Em andamento
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossos casos de sucesso, não hesite em nos contatar através da seção [Contato](contato.qmd).
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).

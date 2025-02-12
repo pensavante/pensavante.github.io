@@ -1,0 +1,13 @@
+---
+title: "Contato"
+---
+
+# Contato
+
+Estamos aqui para ajudar! Se você tiver alguma dúvida ou quiser saber mais sobre nossos serviços, entre em contato conosco através das seguintes opções:
+
+## Informações de Contato
+
+- **Email:** pensavante@gmail.com
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).

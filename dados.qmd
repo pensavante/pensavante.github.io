@@ -1,0 +1,47 @@
+---
+title: "Dados"
+---
+
+# Serviços de Dados
+
+Nossa organização oferece uma ampla gama de serviços relacionados a dados para ajudar nossos clientes a tomar decisões informadas e baseadas em evidências. Desde a coleta e análise de dados até a visualização e interpretação, estamos aqui para ajudar.
+
+## Nossos Serviços de Dados
+
+### Coleta e Limpeza de Dados
+
+Ajudamos nossos clientes a coletar dados de diversas fontes e a garantir que esses dados sejam precisos e utilizáveis. Nossos serviços incluem:
+
+- Coleta de Dados
+- Limpeza e Preparação de Dados
+- Integração de Dados de Múltiplas Fontes
+
+### Análise de Dados
+
+Utilizamos técnicas avançadas de análise de dados para extrair insights valiosos e ajudar nossos clientes a tomar decisões informadas. Nossos serviços incluem:
+
+- Análise Descritiva
+- Análise Preditiva
+- Modelagem Estatística
+
+### Visualização de Dados
+
+Criamos visualizações de dados claras e impactantes para ajudar nossos clientes a entender e comunicar seus insights. Nossos serviços incluem:
+
+- Dashboards Interativos
+- Relatórios Visuais
+- Gráficos e Infográficos
+
+## Tecnologias que Utilizamos
+
+Estamos familiarizados com uma variedade de ferramentas e tecnologias para garantir que possamos oferecer a melhor solução para cada projeto. Algumas das tecnologias que utilizamos incluem:
+
+- Ferramentas de Análise: Python, R, SQL
+- Ferramentas de Visualização: Streamlit, Quarto
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser saber mais sobre nossos serviços de dados, não hesite em nos contatar através da seção [Contato](contato.qmd).
+
+Para mais informações sobre nossa organização, visite a seção [Institucional](institucional.qmd).
